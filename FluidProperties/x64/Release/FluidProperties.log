@@ -1,0 +1,19 @@
+﻿  BlackOil.cpp
+  Compositional.cpp
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(935): warning C4101: 'inner_counter': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(928): warning C4101: 'nv_old': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(1592): warning C4101: 'inner_counter': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(1584): warning C4101: 'nv_old': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(1592): warning C4101: 'df': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(1980): warning C4101: 'nv_old': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2281): warning C4101: 'Kmax': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2274): warning C4101: 'inner_counter': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2259): warning C4101: 'nv_old': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2274): warning C4101: 'f': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2281): warning C4101: 'Kmin': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2274): warning C4101: 'df': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2508): warning C4101: 'nv_old': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2818): warning C4101: 'Kmax': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2796): warning C4101: 'nv_old': unreferenced local variable
+c:\users\hossein\pictures\new folder\wellborereservoir_cpp - copy\fluidproperties\compositional.cpp(2818): warning C4101: 'Kmin': unreferenced local variable
+  FluidProperties.vcxproj -> C:\Users\Hossein\Pictures\New folder\WellboreReservoir_CPP - Copy\x64\Release\FluidProperties.lib

@@ -1,0 +1,47 @@
+** Two phase fluid flow Oil and gas 
+
+WATERPROD	NO	/
+
+UNIT field	/		
+
+-- WELL 
+
+WELLDEPTH 	5151.0
+
+THETA	90.0	
+
+INNERTUBINGD 2.99
+
+GRIDNUM	50		
+
+ROUGHNESS 0.000299	/
+
+
+
+-- Flow Rates and pressures
+QOIL 1140.0 	
+
+PWELLHEAD 505.0
+TWELLHEAD 93.0
+
+SOLUTIONGAS 450.0 	/
+
+-- Fluid Props
+API 23.0
+GAMMAGAS 0.8
+
+CO 0.00001 /
+
+-- METHODS
+
+Pseudocritical_method  T2
+MwMethod PVTsim
+muGasMethod Lee-Gunzalez
+muDeadOilMethod Beggs-Robinson
+muSatOilMethod Beggs-Robinson
+ZFactorMethod PVTsim
+BobMethod Standing
+flowDir upstream
+
+
+** END OF FILE
